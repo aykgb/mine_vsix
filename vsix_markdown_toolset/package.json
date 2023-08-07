@@ -14,6 +14,7 @@
         "color": "blue",
         "theme": "dark"
     },
+    "icon": "",
     "extensionPack": [
         "yzhang.markdown-all-in-one",
         "PKief.markdown-checkbox",
@@ -25,6 +26,8 @@
         "bierner.markdown-preview-github-styles",
         "bierner.markdown-mermaid",
         "darkriszty.markdown-table-prettify",
-        "DavidAnson.vscode-markdownlint"
+        "DavidAnson.vscode-markdownlint",
+        "ms-vscode.wordcount",
+        "krysenlo.vscode-wordcount-cjk"
     ]
 }
