@@ -2,6 +2,7 @@
     "name": "mine-cpp-toolset",
     "displayName": "C++ Development ToolSet",
     "description": "A pack containing multiple VS Code markdown extensions.",
+    "repository": {},
     "version": "1.0.0",
     "publisher": "wangchenglin.clark",
     "engines": {
@@ -26,6 +27,7 @@
         "zxh404.vscode-proto3",
         "redhat.vscode-xml",
         "ajshort.include-autocomplete",
-        "Xen.ccpp-theme"
+        "Xen.ccpp-theme",
+        "vadimcn.vscode-lldb"
     ]
 }

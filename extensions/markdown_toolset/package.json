@@ -4,6 +4,7 @@
     "description": "A pack containing multiple VS Code markdown extensions.",
     "version": "1.0.0",
     "publisher": "wangchenglin.clark",
+    "repository": {},
     "engines": {
         "vscode": "^1.60.0"
     },
