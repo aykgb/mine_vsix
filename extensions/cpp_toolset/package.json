@@ -24,10 +24,7 @@
         "cheshirekow.cmake-format",
         "VisualStudioExptTeam.vscodeintellicode",
         "ms-vscode.makefile-tools",
-        "zxh404.vscode-proto3",
-        "redhat.vscode-xml",
         "ajshort.include-autocomplete",
-        "Xen.ccpp-theme",
         "vadimcn.vscode-lldb"
     ]
 }
