@@ -2,8 +2,9 @@
     "name": "mine-cpp-toolset",
     "displayName": "C++ Development ToolSet",
     "description": "A pack containing multiple VS Code markdown extensions.",
-    "version": "1.0.0",
-    "publisher": "wangchenglin.clark",
+    "repository": {},
+    "version": "1.0.1",
+    "publisher": "wangchenglinclark",
     "engines": {
         "vscode": "^1.60.0"
     },
@@ -14,16 +15,15 @@
         "color": "blue",
         "theme": "dark"
     },
+    "icon": "",
     "extensionPack": [
         "Harry-Ross-Software.c-snippets",
         "tdennis4496.cmantic",
         "llvm-vs-code-extensions.vscode-clangd",
         "zchrissirhcz.cmake-highlight",
         "cheshirekow.cmake-format",
-        "VisualStudioExptTeam.vscodeintellicode",
         "ms-vscode.makefile-tools",
-        "zxh404.vscode-proto3",
-        "redhat.vscode-xml",
-        "ajshort.include-autocomplete"
+        "ajshort.include-autocomplete",
+        "vadimcn.vscode-lldb"
     ]
 }

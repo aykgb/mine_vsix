@@ -1,0 +1,28 @@
+{
+    "name": "mine-bash-toolset",
+    "displayName": "Bash Development ToolSet",
+    "description": "A pack containing multiple VS Code shell extensions.",
+    "repository": {},
+    "version": "1.0.1",
+    "publisher": "wangchenglinclark",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Other"
+    ],
+    "galleryBanner": {
+        "color": "blue",
+        "theme": "dark"
+    },
+    "icon": "",
+    "extensionPack": [
+        "tetradresearch.vscode-h2o",
+        "timonwong.shellcheck",
+        "mads-hartmann.bash-ide-vscode",
+        "jeff-hykin.better-shellscript-syntax",
+        "rpinski.shebang-snippets",
+        "foxundermoon.shell-format",
+        "Remisa.shellman"
+    ]
+}

@@ -2,8 +2,9 @@
     "name": "mine-markdown-toolset",
     "displayName": "Markdown ToolSet",
     "description": "A pack containing multiple VS Code markdown extensions.",
-    "version": "1.0.0",
-    "publisher": "wangchenglin.clark",
+    "version": "1.0.1",
+    "publisher": "wangchenglinclark",
+    "repository": {},
     "engines": {
         "vscode": "^1.60.0"
     },
@@ -14,6 +15,7 @@
         "color": "blue",
         "theme": "dark"
     },
+    "icon": "",
     "extensionPack": [
         "yzhang.markdown-all-in-one",
         "PKief.markdown-checkbox",
@@ -25,6 +27,8 @@
         "bierner.markdown-preview-github-styles",
         "bierner.markdown-mermaid",
         "darkriszty.markdown-table-prettify",
-        "DavidAnson.vscode-markdownlint"
+        "DavidAnson.vscode-markdownlint",
+        "ms-vscode.wordcount",
+        "krysenlo.vscode-wordcount-cjk"
     ]
 }
