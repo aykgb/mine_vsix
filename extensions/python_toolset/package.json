@@ -2,7 +2,7 @@
     "name": "mine-python-toolset",
     "displayName": "Python ToolSet",
     "description": "A pack containing multiple VS Code python extensions.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "wangchenglinclark",
     "repository": {},
     "engines": {
@@ -17,8 +17,8 @@
     },
     "icon": "",
     "extensionPack": [
-        "eliazbobadilla.python-ultisnippets",
-        "EricSia.pythonsnippets3",
+        "doggy8088.quicktype-refresh",
+        "EricSia.pythonsnippets3pro",
         "KevinRose.vsc-python-indent",
         "littlefoxteam.vscode-python-test-adapter",
         "ms-python.autopep8",

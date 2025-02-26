@@ -3,7 +3,7 @@
     "displayName": "Bash Development ToolSet",
     "description": "A pack containing multiple VS Code shell extensions.",
     "repository": {},
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "wangchenglinclark",
     "engines": {
         "vscode": "^1.60.0"

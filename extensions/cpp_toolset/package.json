@@ -3,7 +3,7 @@
     "displayName": "C++ Development ToolSet",
     "description": "A pack containing multiple VS Code c/c++ extensions.",
     "repository": {},
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "wangchenglinclark",
     "engines": {
         "vscode": "^1.60.0"
@@ -19,11 +19,11 @@
     "extensionPack": [
         "ajshort.include-autocomplete",
         "cheshirekow.cmake-format",
+        "doggy8088.quicktype-refresh",
         "llvm-vs-code-extensions.vscode-clangd",
         "ms-vscode.makefile-tools",
         "vadimcn.vscode-lldb",
         "Xen.ccpp-theme",
-        "zchrissirhcz.cmake-highlight",
-        "quicktype.quicktype"
+        "zchrissirhcz.cmake-highlight"
     ]
 }
